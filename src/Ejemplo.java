@@ -4,5 +4,6 @@ public class Ejemplo {
 		// TODO Auto-generated method stub
 		System.out.println("Hola mundo");
 		System.out.println("Adiós mundo cruel");
+		int a;
 	}
 }
